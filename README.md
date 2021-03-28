@@ -2,6 +2,8 @@
 I am a frontend developer and musician. 
 I love coding, music and nature.
 
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="ru_RU" data-type="horizontal" data-theme="dark" data-vanity="alsergeev"><a class="LI-simple-link" href='https://fi.linkedin.com/in/alsergeev?trk=profile-badge'>Alexander Sergeev</a></div>
+
 🌱 I’m currently learning TypeScript
 <!--
 **Surtt/Surtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
