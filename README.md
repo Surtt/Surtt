@@ -3,7 +3,7 @@ I am a frontend developer and musician.
 I love coding, music and nature.
 
 
-🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning TypeScript
 <!--
 **Surtt/Surtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
