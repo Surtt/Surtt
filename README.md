@@ -2,8 +2,6 @@
 I am a frontend developer and musician. 
 I love coding, music and nature.
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="ru_RU" data-type="horizontal" data-theme="dark" data-vanity="alsergeev"><a class="LI-simple-link" href='https://fi.linkedin.com/in/alsergeev?trk=profile-badge'>Alexander Sergeev</a></div>
 
 🌱 I’m currently learning TypeScript
 <!--
@@ -24,6 +22,7 @@ Here are some ideas to get you started:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Surtt&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+My stats
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
