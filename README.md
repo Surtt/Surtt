@@ -1,12 +1,14 @@
 ### Hi there, I'm Alexander Sergeev 👋
 
 <a href="https://www.linkedin.com/in/alsergeev/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue">
 </a>
 
 I am a frontend developer and musician. 
 I love coding, music and nature.
 
+What I use
+<img src="https://img.shields.io/badge/React-45b8d8?style=for-the-badge&logo=react&labelColor=45b8d8&logoColor=white">
 
 - 🌱 I’m currently learning TypeScript
 <!--
