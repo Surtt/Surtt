@@ -9,6 +9,9 @@ I love coding, music and nature.
 
 ### What I'm using
 <div>
+  <img src="https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&labelColor=e34f26&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&labelColor=1572b6&logoColor=white"> <img src="https://img.shields.io/badge/sass-cc6699?style=for-the-badge&logo=sass&labelColor=cc6699&logoColor=white"> <img src="https://img.shields.io/badge/pug-a86454?style=for-the-badge&logo=pug&labelColor=a86454&logoColor=white">
+</div>
+<div>
 <img src="https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&labelColor=f7df1e&logoColor=black">   <!--Learning <img src="https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&labelColor=3178c6&logoColor=white">-->
 </div>
 <div>
