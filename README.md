@@ -21,6 +21,7 @@ I love coding, music and nature.
 <img src="https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=node.js&labelColor=339933&logoColor=white">
 </div>
 
+
 - 🌱 I’m currently learning TypeScript
 <!--
 **Surtt/Surtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
