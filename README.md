@@ -9,7 +9,6 @@ I love coding, music and nature.
 
 ### What I'm using
 <img src="https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&labelColor=f7df1e&logoColor=black">
-
 <img src="https://img.shields.io/badge/React-45b8d8?style=for-the-badge&logo=react&labelColor=45b8d8&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&labelColor=764abc&logoColor=white"> <img src="https://img.shields.io/badge/ReduxSaga-999999?style=for-the-badge&logo=redux-saga&labelColor=999999&logoColor=white">
 <img src="https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=node.js&labelColor=339933&logoColor=white">
 
