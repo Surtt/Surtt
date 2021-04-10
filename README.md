@@ -8,8 +8,7 @@ I am a frontend developer and musician.
 I love coding, music and nature.
 
 ### What I'm using
-<img src="https://img.shields.io/badge/React-45b8d8?style=for-the-badge&logo=react&labelColor=45b8d8&logoColor=white">
-<img src="https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&labelColor=764abc&logoColor=white">
+<img src="https://img.shields.io/badge/React-45b8d8?style=for-the-badge&logo=react&labelColor=45b8d8&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&labelColor=764abc&logoColor=white">
 
 - 🌱 I’m currently learning TypeScript
 <!--
