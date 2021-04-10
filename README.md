@@ -1,4 +1,9 @@
 ### Hi there, I'm Alexander Sergeev 👋
+<p align=”center”>
+<a href=”https://www.linkedin.com/in/alsergeev/”>
+<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
+</p>
 I am a frontend developer and musician. 
 I love coding, music and nature.
 
