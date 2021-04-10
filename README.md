@@ -1,7 +1,7 @@
 ### Hi there, I'm Alexander Sergeev 👋
 
-<a href=”https://www.linkedin.com/in/alsergeev/”>
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+<a href="https://www.linkedin.com/in/alsergeev/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 
 I am a frontend developer and musician. 
