@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 ### My stats
 <!--START_SECTION:waka-->
 ```text
-JSX          11 hrs 1 min    ███████████████████████▓░   94.60 % 
-JavaScript   31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-HTML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+JSX          12 hrs 41 mins  ██████████████████████▒░░   89.03 % 
+JavaScript   1 hr 27 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+HTML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 <!--END_SECTION:waka-->
