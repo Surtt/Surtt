@@ -7,6 +7,8 @@
 I am a frontend developer and musician. 
 I love coding, music and nature.
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Surtt.id)
+
 ### What I'm using
 <div>
   <img src="https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&labelColor=e34f26&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&labelColor=1572b6&logoColor=white"> <img src="https://img.shields.io/badge/sass-cc6699?style=for-the-badge&logo=sass&labelColor=cc6699&logoColor=white"> <img src="https://img.shields.io/badge/pug-a86454?style=for-the-badge&logo=pug&labelColor=a86454&logoColor=white">
@@ -38,8 +40,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Surtt.id)
 
 <span>
 <a>
