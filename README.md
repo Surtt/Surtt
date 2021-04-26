@@ -24,7 +24,7 @@ I love coding, music and nature.
 </div>
 
 
-<!-- - 🌱 I’m currently learning TypeScript-->
+- 🌱 I’m currently learning TypeScript and NestJS
 <!--
 **Surtt/Surtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
