@@ -5,7 +5,8 @@
 </a>
 
 I am a frontend developer and musician. 
-I love coding, music and nature.
+I love coding, music and nature.<br />
+🌱 I’m currently learning TypeScript and NestJS
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Surtt.id)
 
@@ -23,8 +24,6 @@ I love coding, music and nature.
 <img src="https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=node.js&labelColor=339933&logoColor=white">
 </div>
 
-
-- 🌱 I’m currently learning TypeScript and NestJS
 <!--
 **Surtt/Surtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
