@@ -54,3 +54,4 @@ Elixir       13 mins         ▒░░░░░░░░░░░░░░░░
 Markdown     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 ```
 <!--END_SECTION:waka-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surtt&layout=compact)](https://github.com/surtt/github-readme-stats)
