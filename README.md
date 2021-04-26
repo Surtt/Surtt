@@ -39,15 +39,15 @@ Here are some ideas to get you started:
 -->
 
 
-<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=Surtt.id)-->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Surtt.id)
 
 <span>
-<a>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Surtt&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/surtt/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surtt&layout=compact" />
-</a>
+  <a>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?   username=Surtt&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/surtt/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surtt&layout=compact" />
+  </a>
 </span>
 
 ### My stats
