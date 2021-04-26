@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 </a>
 </span>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=surtt)](https://github.com/surtt/github-readme-stats)
+
 ### My stats
 <!--START_SECTION:waka-->
 ```text
