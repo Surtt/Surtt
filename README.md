@@ -6,7 +6,7 @@
 
 I am a frontend developer and musician. 
 I love coding, music and nature.<br />
-🌱  I’m currently learning TypeScript and NestJS
+🌱  I’m currently learning TypeScript and NextJS
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Surtt.id)
 
