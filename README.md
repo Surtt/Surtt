@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 ### My stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   4 hrs 28 mins   █████████░░░░░░░░░░░░░░░░   35.45 % 
-JSX          4 hrs 11 mins   ████████▒░░░░░░░░░░░░░░░░   33.14 % 
-HTML         3 hrs 25 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.16 % 
-JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-YAML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+JSX          6 hrs 24 mins   █████████████▒░░░░░░░░░░░   52.73 % 
+JavaScript   3 hrs 1 min     ██████▒░░░░░░░░░░░░░░░░░░   24.89 % 
+HTML         1 hr 54 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+JSON         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+YAML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 ```
 <!--END_SECTION:waka-->
 
