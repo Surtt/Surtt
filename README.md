@@ -53,9 +53,8 @@ Here are some ideas to get you started:
 ### My stats
 <!--START_SECTION:waka-->
 ```text
-JSX          1 hr 4 mins     ███████████████████░░░░░░   75.54 % 
-JavaScript   15 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.40 % 
-YAML         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+JSX          36 mins         ██████████████████▒░░░░░░   72.69 % 
+JavaScript   13 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.31 % 
 ```
 <!--END_SECTION:waka-->
 
