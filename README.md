@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 ### My stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   3 hrs 4 mins    █████████████████████████   100.00 % 
+JavaScript   1 hr 17 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
