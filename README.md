@@ -6,7 +6,7 @@
 
 I am a frontend developer and musician. 
 I love coding, music and nature.<br />
-🌱  I’m currently learning TypeScript and NextJS
+🌱  I’m currently learning NextJS
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Surtt.id)
 
@@ -15,7 +15,7 @@ I love coding, music and nature.<br />
   <img src="https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&labelColor=e34f26&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&labelColor=1572b6&logoColor=white"> <img src="https://img.shields.io/badge/sass-cc6699?style=for-the-badge&logo=sass&labelColor=cc6699&logoColor=white"> <img src="https://img.shields.io/badge/pug-a86454?style=for-the-badge&logo=pug&labelColor=a86454&logoColor=white">
 </div>
 <div>
-<img src="https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&labelColor=f7df1e&logoColor=black">   <!--Learning <img src="https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&labelColor=3178c6&logoColor=white">-->
+<img src="https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&labelColor=f7df1e&logoColor=black"> <img src="https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&labelColor=3178c6&logoColor=white">
 </div>
 <div>
 <img src="https://img.shields.io/badge/React-45b8d8?style=for-the-badge&logo=react&labelColor=45b8d8&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&labelColor=764abc&logoColor=white"> <!--<img src="https://img.shields.io/badge/ReduxSaga-999999?style=for-the-badge&logo=redux-saga&labelColor=999999&logoColor=white">-->
