@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 ### My stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript                 5 hrs 53 mins   ██████████████░░░░░░░░░░░   56.50 % 
-TypeScript                 4 hrs 26 mins   ██████████▓░░░░░░░░░░░░░░   42.51 % 
-JSON                       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+TypeScript                 6 hrs 45 mins   ███████████████▓░░░░░░░░░   62.21 % 
+JavaScript                 4 hrs 2 mins    █████████▒░░░░░░░░░░░░░░░   37.27 % 
+JSON                       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 <!--END_SECTION:waka-->
 
