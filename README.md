@@ -53,7 +53,9 @@ Here are some ideas to get you started:
 ### My stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JSX          6 hrs 49 mins   █████████████████████▒░░░   85.21 % 
+JavaScript   56 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+CSS          14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 ```
 <!--END_SECTION:waka-->
 
