@@ -54,12 +54,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       11 hrs 31 mins  ████████████████████▓░░░░   82.00 %
-CSS              1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
-JSON             48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-textmate         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Properties       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-XML              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+JavaScript       9 hrs 8 mins    ███████████████████▒░░░░░   76.82 %
+CSS              1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
+JSON             49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
+GitIgnore file   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+textmate         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+XML              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
 <!--END_SECTION:waka-->
