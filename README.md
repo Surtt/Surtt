@@ -54,10 +54,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       5 hrs 22 mins   ██████████████████████▓░░   90.18 %
-GitIgnore file   19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-YAML             12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-JSON             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+JavaScript       4 hrs 17 mins   ███████████████████████░░   91.69 %
+YAML             12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+GitIgnore file   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+JSON             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 yarn.lock        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
