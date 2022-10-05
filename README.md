@@ -54,8 +54,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       5 hrs 11 mins   █████████████████████████   99.96 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JavaScript       5 hrs 6 mins    ████████████████████████▓   98.38 %
+JSON             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
