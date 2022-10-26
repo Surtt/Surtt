@@ -54,12 +54,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       13 hrs 3 mins   ███████████████████▒░░░░░   77.55 %
-Prisma           1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
-JSON             1 hr 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
-JavaScript       25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-tsconfig         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-textmate         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+TypeScript   10 hrs 25 mins  ███████████████████░░░░░░   76.08 %
+Prisma       1 hr 24 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
+JSON         1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+JavaScript   25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+textmate     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+SQL          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
