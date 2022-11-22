@@ -1,9 +1,11 @@
 ## Hi there, I'm Alexander Sergeev 👋
 
 📫 How to reach me:
+<div>
 <a href="https://www.linkedin.com/in/alsergeev/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue">
 </a>
+</div>
 
 I am a frontend developer and musician. 
 I love coding, music and nature.<br />
@@ -23,6 +25,7 @@ I love coding, music and nature.<br />
 </div>
 <div>
 <img src="https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=node.js&labelColor=339933&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 </div>
 
 <!--
