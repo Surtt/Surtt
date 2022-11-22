@@ -6,6 +6,8 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue">
 </a>
 </div>
+<br>
+<br>
 
 I am a frontend developer and musician. 
 I love coding, music and nature.<br />
