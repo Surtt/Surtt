@@ -1,12 +1,13 @@
 ## Hi there, I'm Alexander Sergeev 👋
 
+📫 How to reach me:
 <a href="https://www.linkedin.com/in/alsergeev/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue">
 </a>
 
 I am a frontend developer and musician. 
 I love coding, music and nature.<br />
-🌱  I’m currently learning NextJS
+🌱  I’m currently learning NestJS
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Surtt.id)
 
@@ -18,7 +19,7 @@ I love coding, music and nature.<br />
 <img src="https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&labelColor=f7df1e&logoColor=black"> <img src="https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&labelColor=3178c6&logoColor=white">
 </div>
 <div>
-<img src="https://img.shields.io/badge/React-45b8d8?style=for-the-badge&logo=react&labelColor=45b8d8&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&labelColor=764abc&logoColor=white"> <!--<img src="https://img.shields.io/badge/ReduxSaga-999999?style=for-the-badge&logo=redux-saga&labelColor=999999&logoColor=white">-->
+<img src="https://img.shields.io/badge/React-45b8d8?style=for-the-badge&logo=react&labelColor=45b8d8&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&labelColor=764abc&logoColor=white"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"> <!--<img src="https://img.shields.io/badge/ReduxSaga-999999?style=for-the-badge&logo=redux-saga&labelColor=999999&logoColor=white">-->
 </div>
 <div>
 <img src="https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=node.js&labelColor=339933&logoColor=white">
