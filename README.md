@@ -7,7 +7,6 @@
 </a>
 </div>
 <br>
-<br>
 
 I am a frontend developer and musician. 
 I love coding, music and nature.<br />
