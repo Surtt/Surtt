@@ -59,12 +59,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       10 hrs 44 mins  ████████████████████░░░░░   79.51 %
-JSON             1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-GitIgnore file   30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-Markdown         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-SCSS             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-tsconfig         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+TypeScript       10 hrs 56 mins  ████████████████████▒░░░░   81.40 %
+JSON             43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+Markdown         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+GitIgnore file   33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+SCSS             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+tsconfig         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
