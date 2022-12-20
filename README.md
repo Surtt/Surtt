@@ -59,12 +59,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       22 hrs 22 mins  ███████████████████████▓░   94.49 %
-JSON             29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-Prisma           25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-GitIgnore file   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-JavaScript       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-CSS              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+TypeScript       19 hrs 43 mins  ███████████████████████▒░   93.32 %
+JSON             41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+Prisma           22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+GitIgnore file   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+HTML             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+JavaScript       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
