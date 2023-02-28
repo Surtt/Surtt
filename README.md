@@ -59,7 +59,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Markdown         12 mins         █████████████▒░░░░░░░░░░░   52.80 %
+GitIgnore file   10 mins         ██████████▓░░░░░░░░░░░░░░   42.55 %
+JavaScript       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+HTML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
