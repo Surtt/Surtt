@@ -59,11 +59,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown         12 mins         █████████████▒░░░░░░░░░░░   52.80 %
-GitIgnore file   10 mins         ██████████▓░░░░░░░░░░░░░░   42.55 %
-JavaScript       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-HTML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+HTML             2 hrs 1 min     ████████████████████▓░░░░   83.15 %
+Markdown         12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+GitIgnore file   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
