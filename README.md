@@ -59,12 +59,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       7 hrs 1 min     █████████▓░░░░░░░░░░░░░░░   38.21 %
-JavaScript       6 hrs 35 mins   █████████░░░░░░░░░░░░░░░░   35.80 %
-CSS              2 hrs 54 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
-JSON             1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
-HTML             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-SCSS             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+TypeScript       10 hrs 2 mins   ██████████▒░░░░░░░░░░░░░░   41.17 %
+JavaScript       8 hrs 17 mins   ████████▒░░░░░░░░░░░░░░░░   33.99 %
+CSS              3 hrs 42 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.20 %
+JSON             1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+GitIgnore file   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+HTML             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
