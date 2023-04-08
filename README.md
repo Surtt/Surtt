@@ -59,11 +59,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown         49 mins         ████████████░░░░░░░░░░░░░   48.36 %
-YAML             38 mins         █████████▓░░░░░░░░░░░░░░░   38.07 %
-TypeScript       8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
-GitIgnore file   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-HTTP Request     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Markdown         49 mins         █████████████░░░░░░░░░░░░   52.49 %
+YAML             38 mins         ██████████▒░░░░░░░░░░░░░░   41.32 %
+GitIgnore file   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+HTTP Request     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
 ```
 
 <!--END_SECTION:waka-->
