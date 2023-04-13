@@ -59,10 +59,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-YAML             40 mins         ████████████████████▒░░░░   80.83 %
-Markdown         4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
-GitIgnore file   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-HTTP Request     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+SQL            2 hrs 3 mins    ████████████████████▒░░░░   81.37 %
+YAML           21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
+HTTP Request   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
 ```
 
 <!--END_SECTION:waka-->
