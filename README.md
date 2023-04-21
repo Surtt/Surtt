@@ -59,8 +59,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-SQL    2 hrs 1 min     █████████████████████████   99.69 %
-YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+SQL   25 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
