@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java             22 hrs 10 mins  ██████████████████░░░░░░░   71.37 %
-TypeScript       8 hrs 17 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.69 %
-Properties       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Bash             7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-CSS              7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Java             17 hrs 17 mins  █████████████░░░░░░░░░░░░   51.69 %
+TypeScript       15 hrs 28 mins  ███████████▓░░░░░░░░░░░░░   46.28 %
+Properties       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+CSS              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Bash             7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
