@@ -59,11 +59,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   34 mins         ████████████████████▒░░░░   80.96 %
-Text         5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
-Ezhil        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
