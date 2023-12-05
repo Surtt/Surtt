@@ -59,11 +59,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-GitIgnore file   0 secs          ███████████▒░░░░░░░░░░░░░   45.83 %
-TSConfig         0 secs          ██████▒░░░░░░░░░░░░░░░░░░   25.94 %
-TypeScript       0 secs          █████▓░░░░░░░░░░░░░░░░░░░   22.02 %
-JavaScript       0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-SVG              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
