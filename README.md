@@ -59,7 +59,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go           32 mins         █████████████████████▓░░░   86.74 %
+JavaScript   3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
+Lua          1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
 ```
 
 <!--END_SECTION:waka-->
