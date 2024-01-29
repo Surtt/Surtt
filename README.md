@@ -59,11 +59,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Docker                     42 mins         █████████████████▓░░░░░░░   70.60 %
-Markdown                   15 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.77 %
-HTML                       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-Nginx configuration file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-JavaScript                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Docker       33 mins         ██████████████████░░░░░░░   72.41 %
+Markdown     12 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.95 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
 <!--END_SECTION:waka-->
