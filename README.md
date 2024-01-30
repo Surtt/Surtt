@@ -59,9 +59,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Docker       33 mins         ██████████████████░░░░░░░   72.41 %
-Markdown     12 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.95 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+JSON        14 mins         █████████████████████░░░░   83.71 %
+Markdown    1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
+gitignore   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
 ```
 
 <!--END_SECTION:waka-->
