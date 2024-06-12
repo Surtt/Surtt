@@ -59,9 +59,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   11 hrs 59 mins  █████████████████████░░░░   84.37 %
-JSON         1 hr 58 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
-Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+TypeScript   12 hrs 2 mins   ███████████████████▒░░░░░   76.93 %
+JSON         3 hrs 16 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.89 %
+Other        20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
