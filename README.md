@@ -59,8 +59,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   22 hrs 25 mins  ████████████████████████▒   97.68 %
-Go           31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+TypeScript   22 hrs 25 mins  ████████████████████████░   96.48 %
+Go           48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
