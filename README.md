@@ -59,10 +59,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   13 hrs 55 mins  ██████████████▒░░░░░░░░░░   57.26 %
-Vue.js       6 hrs 11 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.44 %
-CSS          4 hrs 10 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.17 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+TypeScript   13 hrs 28 mins  ██████████████▓░░░░░░░░░░   58.52 %
+Vue.js       5 hrs 25 mins   ██████░░░░░░░░░░░░░░░░░░░   23.57 %
+CSS          4 hrs 5 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.78 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 Lua          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
