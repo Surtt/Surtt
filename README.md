@@ -59,10 +59,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python      5 hrs 30 mins         ███████████████████████▓░   95.13 %
-Markdown    15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-Bash        1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-gitignore   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Python     6 hrs                 ████████████████████████░   95.83 %
+Markdown   15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
 ```
 
 <!--END_SECTION:waka-->
