@@ -59,11 +59,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     7 mins                ██████████░░░░░░░░░░░░░░░   39.78 %
-Vue          6 mins                ████████░░░░░░░░░░░░░░░░░   31.78 %
-Python       5 mins                ██████▓░░░░░░░░░░░░░░░░░░   26.61 %
-Git Config   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-TypeScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
