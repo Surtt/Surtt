@@ -59,9 +59,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   8 hrs 44 mins         █████████████████████████   99.64 %
-INI      1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-JSON     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Python   4 hrs 21 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
