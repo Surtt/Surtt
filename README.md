@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python      8 hrs 12 mins         █████████████████▓░░░░░░░   70.31 %
-YAML        50 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
-Makefile    47 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
-Markdown    36 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-TOML        34 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+Python      9 hrs 16 mins         ██████████████████▓░░░░░░   74.46 %
+YAML        50 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+Makefile    46 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+TOML        34 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+Markdown    22 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
 ```
 
 <!--END_SECTION:waka-->
