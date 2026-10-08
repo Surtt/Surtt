@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python      6 hrs 15 mins         █████████████████░░░░░░░░   67.68 %
-TOML        1 hr 2 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
-YAML        50 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
-Makefile    22 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-Docker      12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Python      4 hrs 32 mins         █████████████████▒░░░░░░░   69.96 %
+YAML        50 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
+TOML        27 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+Docker      12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Markdown    8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
 ```
 
 <!--END_SECTION:waka-->
