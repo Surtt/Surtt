@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python      3 hrs 49 mins         █████████████████░░░░░░░░   67.77 %
-HTML        23 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-Makefile    21 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-gitignore   20 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-dbout       16 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+Python      5 hrs 36 mins         ████████████████████░░░░░   80.53 %
+HTML        23 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+gitignore   18 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+dbout       16 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+JSON        12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
 ```
 
 <!--END_SECTION:waka-->
